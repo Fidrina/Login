@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    background: url('images/121438.jpg') fixed no-repeat;
+    background: url('../images/121438.jpg') fixed no-repeat;
     background-size: cover;
 }
 
@@ -81,6 +81,7 @@ input[type="submit"]:hover {
 
 span a {
     color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
 }
 
 #social-network-link {

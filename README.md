@@ -2,4 +2,10 @@
 
 <p align="center">Development of a login screen using Vanilla HTML</p>
 
-<img src="Screen Shot 2020-10-16 at 14.25.49.png" alt="Login">
+<p align="center">
+    <img src="login-screen-desktop.png" alt="Login">
+</p>
+
+<p align="center">
+    <img src="login-screen-mobile.png" alt="Login">
+</p>

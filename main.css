@@ -92,6 +92,7 @@ span a {
 }
 
 #social-network-link img {
-    width: 35px;
-    height: 35px
+    width: 26px;
+    height: 26px;
+    border-radius: 13px;
 }
